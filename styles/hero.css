@@ -28,6 +28,9 @@ h1 {
 h2 {
   font-size: 64px;
 }
+h3 {
+  font-size: 48px;
+}
 
 p {
   font-weight: normal;
@@ -108,6 +111,7 @@ p {
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+  text-decoration: none;
 }
 
 .btn-branding-outline {
@@ -115,8 +119,10 @@ p {
   border: 1px solid var(--branding-color);
   border-radius: 4px;
   font-size: 18px;
+  text-decoration: none;
   line-height: 27px;
   padding: 15px 30px;
+  
 }
 
 .btn-branding:hover {
